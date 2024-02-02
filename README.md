@@ -1,6 +1,6 @@
 # Hangman Game
 
-A simple Hangman game developed in Python as part of the MIT OpenCourseWare problem set.
+A simple Hangman game developed in Python as part of the [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) problem set.
 
 ## Description
 
@@ -34,7 +34,7 @@ The Hangman game is a classic word-guessing game. The computer selects a secret 
 1. Clone the repository and run the Hangman game Python file.
 
 ```bash
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/daimena/hangman.git
 cd hangman-game
 python hangman.py
 ```
