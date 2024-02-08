@@ -71,3 +71,15 @@ Oops! That letter is not in my word: _ _ _ _ _ _ _ e_
 You have 5 guesses left.
 Available letters: abcdfhijklmnopqrstuvwyz 
 ```
+
+# Hangman with hints
+
+Another version of the Hangman game can be played running the Python file:
+```
+python hangmanWithHints.py
+```
+
+## Description
+
+This version allows you to input a * instead of a letter to receive all the possible words that match the length of the secret word and the letters you already guessed.
+Every other rules and how to play are the same as the original version.
